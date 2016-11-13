@@ -1,0 +1,6 @@
+[package]
+name = "project-creator"
+version = "0.1.0"
+authors = ["jpepin"]
+
+[dependencies]
